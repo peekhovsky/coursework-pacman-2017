@@ -1,0 +1,21 @@
+﻿  Window.cpp
+  Standart.cpp
+f:\documents\c++\pacman(v0.3)\pacman(v0.3)\standart.cpp(9): warning C4018: '<': signed/unsigned mismatch
+f:\documents\c++\pacman(v0.3)\pacman(v0.3)\standart.cpp(14): warning C4018: '<': signed/unsigned mismatch
+f:\documents\c++\pacman(v0.3)\pacman(v0.3)\standart.cpp(16): warning C4018: '<': signed/unsigned mismatch
+  Level.cpp
+  Points.cpp
+  Pacman.cpp
+  Menu.cpp
+  Map.cpp
+  Main.cpp
+f:\documents\c++\pacman(v0.3)\pacman(v0.3)\main.cpp(41): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Library.cpp
+  Ghost.cpp
+  Game.cpp
+  BigPoints.cpp
+  Animations.cpp
+  Generating Code...
+f:\documents\c++\pacman(v0.3)\pacman(v0.3)\level.cpp(255): warning C4715: 'execute': not all control paths return a value
+     Creating library F:\Documents\C++\Pacman(v0.3)\x64\Debug\Pacman(v0.3).lib and object F:\Documents\C++\Pacman(v0.3)\x64\Debug\Pacman(v0.3).exp
+LINK : fatal error LNK1561: entry point must be defined

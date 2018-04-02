@@ -1,0 +1,71 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="BigPoints">
+    <Position X="9" Y="4.75" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Methods" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AAAQEAAAAAAAAAAAAAAQAAACAAAIAgAAAIAAEAAAgCA=</HashCode>
+      <FileName>BigPoints.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Ghost">
+    <Position X="10.75" Y="4.75" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Methods" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AAAAAAABAAAAAoAAIAQAAIICwIAAB0AAKIAGAhAEwAA=</HashCode>
+      <FileName>Ghost.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="HighScore">
+    <Position X="1" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAEAAAAAACAAAAAACAgAAAAAAAAABAQAIAQAAAAgAA=</HashCode>
+      <FileName>HighScore.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Map">
+    <Position X="5.5" Y="4.75" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Methods" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AAUAAAgBBBAAAAQAQAAAIACAABAAAAAABIIIhAAAoAI=</HashCode>
+      <FileName>Map.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Menu">
+    <Position X="2.75" Y="4.75" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Methods" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AAAAAABJIABAAAQAAIAEAQAAAAAMAAAAAIAABAAAgAA=</HashCode>
+      <FileName>Menu.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Pacman">
+    <Position X="12.5" Y="4.75" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Methods" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AUAAAAAAAAAAAAAAAAAAAIICAgAAAwAACICCBBAEyAA=</HashCode>
+      <FileName>Pacman.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Points">
+    <Position X="7.25" Y="4.75" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Methods" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AAAQEAAAAAAAgAAAAAAAAAACAAAIAgCAAIAQEAABgAA=</HashCode>
+      <FileName>Points.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
