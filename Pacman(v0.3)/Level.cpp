@@ -191,8 +191,14 @@ int execute(SDL_Renderer* renderer, int pacman_speed, int ghost_speed, int ghost
 		ghost3.build();
 		ghost4.build();
 
-		if (die_pacman) pacman.build_die();
-		else pacman.build();
+		if (die_pacman)
+		{
+			pacman.build_die();
+		}
+		else
+		{
+			pacman.build();
+		}
 		
 
 		buildScore(renderer, score, map1.get_tile_size() + 30, 0);
@@ -324,7 +330,7 @@ int execute(SDL_Renderer* renderer, int pacman_speed, int ghost_speed, int ghost
 		// win
 		if (game_choice == 2)
 		{
-			// build score and label "game over"
+			// build score and label
 			renderTexture(background_texture, renderer, 0, 0);
 			SDL_Texture* text_texture = TextToTexture(renderer, "Done!", "Fonts/Magneto.ttf", { 255, 255, 255 }, 70);
 			renderTexture(text_texture, renderer, 210, 100);
